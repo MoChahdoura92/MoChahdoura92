@@ -29,9 +29,9 @@ I'm excited to make a positive impact on the world, one line of code at a time!
 - I can help you find out why your plant babies aren't doing so well, or help guide you for your next purchase. 
  
 ### :leisure time: I enjoy :
-- playing video games
-- outdoor activities 
-- watching movies
+- Playing video games
+- Outdoor activities 
+- Reading books
 
   
 
