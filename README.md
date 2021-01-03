@@ -11,9 +11,9 @@ I'm excited to make a positive impact on the world, one line of code at a time!
 ![andro](/assets/andro.png) ![responsive design](/assets/angular.png) ![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![react](/assets/icons8-react-native.png)  ![graphql](/assets/graphql.png) ![java](/assets/java_ee_logo_vert_v2.png)
 
 ### :computer: I'm currently working on:
-- My ReactJS skills
-- Java/JavaEE skills
-- Python skills
+- ReactJS
+- Java/JavaEE
+- Python
  
 ### :books:I'm currently learning: 
 - React Context APi
