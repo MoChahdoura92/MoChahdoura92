@@ -12,7 +12,7 @@ I'm excited to make a positive impact on the world, one line of code at a time!
 
 ### :computer: I'm currently working on:
 - My ReactJS skills
-- Java skills
+- Java/JavaEE skills
 - Python skills
  
 ### :books:I'm currently learning: 
