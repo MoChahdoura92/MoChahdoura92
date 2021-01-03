@@ -8,7 +8,7 @@ During Covid-19, I decided to take a new challenge for the master degree in Cana
 I'm excited to make a positive impact on the world, one line of code at a time! 
 
 ## My skillset includes:
-![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![react](/assets/icons8-react-native.png)  ![Rest api](/assets/icons8-rest-api.png)   ![responsive design](/assets/icons8-responsive.png) ![responsive design](/assets/icons8-responsive.png) ![responsive design](/assets/icons8-responsive.png)
+![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![react](/assets/icons8-react-native.png)  ![Rest api](/assets/icons8-rest-api.png)   ![responsive design](/assets/icons8-responsive.png) ![responsive design](/assets/icons8-responsive.png) ![responsive design](/assets/téléchargement.png)
 
 ### :computer: I'm currently working on:
 - My ReactJS skills
