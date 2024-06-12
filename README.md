@@ -14,15 +14,13 @@ I'm excited to make a positive impact on the world, one line of code at a time!
 - ReactJS
 - Java/JavaEE
 - Python
+- Redux
+- React Context APi
  
 ### :books:I'm currently learning: 
-- React Context APi
+
 - Android
-- Ruby
- 
-### :sparkles: In 2021 I want to learn: 
 - Kotlin
-- Redux
  
 ###  :speech_balloon: Ask me about: Plants!
 - I have over 60 thriving plants at home, big and small.
