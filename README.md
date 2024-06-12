@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Mohamed !
 
-## I'm a Web Developer and computer science's master program Student. 
+## I'm a Web Developer and computer science's master degree holder. 
 
-I recently moved from Switzerland to Ottawa. 
+I am Tunisian, actually living from Switzerland. 
 I've always been interrested in developping web platforms and motivated in learning new dev tools.
-During Covid-19, I decided to take a new challenge for the master degree in Canada , the University of Quebec in Outaouais.
-I'm excited to make a positive impact on the world, one line of code at a time! 
+During Covid-19, I decided to take a new challenge for the master degree in Canada, the University of Quebec in Outaouais.
+During my carrer, I want to make a positive impact on the world, one line of code at a time! 
 
 ## My skillset includes:
 ![andro](/assets/andro.png) ![responsive design](/assets/angular.png) ![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![react](/assets/icons8-react-native.png)  ![graphql](/assets/graphql.png) ![java](/assets/java_ee_logo_vert_v2.png)
