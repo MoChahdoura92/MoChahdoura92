@@ -12,13 +12,13 @@ During my carrer, I want to make a positive impact on the world, one line of cod
 
 ### :computer: I'm currently working on:
 - ReactJS
-- Java/JavaEE
-- Python
 - Redux
 - React Context APi
+- Java/JavaEE
+- NoSQL and SQL DataBases
  
 ### :books:I'm currently learning: 
-
+- React Native
 - Android
 - Kotlin
  
@@ -27,7 +27,8 @@ During my carrer, I want to make a positive impact on the world, one line of cod
 - I can help you find out why your plant babies aren't doing so well, or help guide you for your next purchase. 
  
 ### :leisure time: I enjoy :
-- Playing video games
+- Playing Basketball
+- Video games
 - Outdoor activities 
 - Reading books
 
