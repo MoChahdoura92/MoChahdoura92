@@ -26,7 +26,7 @@ During my carrer, I want to make a positive impact on the world, one line of cod
 - I have over 60 thriving plants at home, big and small.
 - I can help you find out why your plant babies aren't doing so well, or help guide you for your next purchase. 
  
-### :leisure time: I enjoy :
+### :leisure_time: I enjoy :
 - Playing Basketball
 - Video games
 - Outdoor activities 
