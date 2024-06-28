@@ -8,7 +8,8 @@ During Covid-19, I decided to take a new challenge for the master degree in Cana
 During my carrer, I want to make a positive impact on the world, one line of code at a time! 
 
 ## My skillset includes:
- ![responsive design](/assets/angular.png) ![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![graphql](/assets/graphql.png) ![java](/assets/java_ee_logo_vert_v2.png)
+ ![responsive design](/assets/angular.png) ![css](/assets/icons8-css3.png)  ![html](/assets/icons8-html-5.png)  ![js](/assets/icons8-javascript.png)  ![jquery](/assets/icons8-jquery.png)  ![sass](/assets/icons8-sass.png) ![graphql](/assets/graphql.png) <img src="/assets/1012822_code_development_logo_mongodb_programming_icon.png" alt="mongodb" width="50" height="50"><img src="/assets/4691328_postgresql_icon.png" alt="postgresql" width="50" height="50">![java](/assets/java_ee_logo_vert_v2.png)![maven](/assets/icons8-maven-ios-50.png)
+
 
 ### :computer: I'm currently working on:
 - ReactJS
